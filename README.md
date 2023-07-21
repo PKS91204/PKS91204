@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Piyush Singh</h1>
+<h1 align="center">Hi 👋, I'm Piyush Kumar Singh</h1>
 <h3 align="center">A passionate LaTeX and computational Physics developer from INDIA</h3>
 
 - 📫 How to reach me [Gmail](mailto:pksx9120@gmail.com)
